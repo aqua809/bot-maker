@@ -1,0 +1,7 @@
+{
+  "PREFIX": "A",
+  "YOUTUBE_API_KEY": "AIzaSyBPjXh06FOuDCBsZdvu5bKaW9BBg8_HoPU",
+  "QUEUE_LIMIT": 10,
+  "COLOR": "RED",
+  "inviteURL": "https://discord.com/api/oauth2/authorize?client_id=765515771333443584&permissions=2147483639&scope=bot"
+}
